@@ -1,11 +1,10 @@
-<h1 align="center"> Challenge Amigo Secreto  </h1>
-<br>
-<br>
-Descripción del proyecto.<br><br>
+# Desafio Telecom x Alura Latam.
 
-Aplicación para elegir un amigo secreto según las indicaciones otorgadas por el curso referente a Lógica de programación de Alura Latam.<br><br>
-En este aplicativo el usuario deberá ingresar nombres de sus amigos y presionar el botón "Añadir", esto almacena cada nombre en una lista que se muestra en pantalla.<br><br>
-Si el usuario presiona el botón "Añadir" sin haber ningún nombre, saldrá un mensaje de error ("Debe ingresar un nombre valido").<br><br>
-Finalmente, el usuario al presionar el botón "Sorteo Amigo Secreto", el aplicativo seleccionara aleatoriamente uno de los nombres de la lista y lo mostrará en pantalla.<br><br>
-Si no hay nombres en la lista, aparecerá un mensaje de error ("No hay amigos").
+En este documento se encuentra el codigo para cumplir con el desafio especificado en el titulo.
+
+La finalidad del mismo es poner en practica herramientas de python para Data Science.
+
+En esta ocasión el ejercicio consistia en hacer una evaluación de clientes de la empresa "Telecom_X" acerca de la evasión de los mismos (Churn).
+Se trabajaron datos desde la exportación de los mismos, crear dataframes que ayudaran a analizar de mejor manera las posibles causas del aumento de evasión de clientes.
+Se presenta un informe con graficos para avalar las conclusiones del estudio así como recomendaciones que se le otrorga al cliente para que pueda aplicarlas y así disminuir el rango de evasión de clientes.
 
